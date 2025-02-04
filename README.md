@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Savee Sharma</h1>
 <h3 align="center">Passionate about game development, software engineering, and full-stack development. Skilled in C++, C#, JavaScript, React, and Unity. Always exploring new technologies and striving to build innovative projects. 🎮💡</h3>
 <img align="right" alt="coding" width="400" src = "https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saveesharma4&label=Profile%20views&color=0e75b6&style=flat" alt="saveesharma4" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saveesharma4" alt="saveesharma4" /></a> </p>
 
 - 📫 How to reach me **saveesharma4@gmail.com**
 
