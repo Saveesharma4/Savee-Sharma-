@@ -1,21 +1,53 @@
 <h1 align="center">Hi 👋, I'm Savee Sharma</h1>
-<h3 align="center">Passionate about game development, software engineering, and full-stack development. Skilled in C++, C#, JavaScript, React, and Unity. Always exploring new technologies and striving to build innovative projects. 🎮💡</h3>
-<img align="right" alt="coding" width="400" src = "https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saveesharma4&label=Profile%20views&color=0e75b6&style=flat" alt="saveesharma4" /> </p>
+<h3 align="center">🚀 Aspiring Game Developer | Software Engineer | Full-Stack Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saveesharma4" alt="saveesharma4" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 
-- 📫 How to reach me **saveesharma4@gmail.com**
+💡 **Passionate about:** Game Development, Software Engineering, and Full-Stack Development  
+🎯 **Currently Learning:** Advanced Algorithms, SQL, and System Design  
+🚀 **Aspiring to:** Pursue a Master's in Game Development  
+💬 **Ask me about:** Unity, C++, C#, React, and Problem Solving  
+📫 **How to reach me:** **saveesharma4@gmail.com**  
+⚡ **Fun Fact:** "A bug-free code is a myth, but a well-debugged one is a masterpiece!"  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+## 🌍 Connect & Collaborate  
+<p align="center">
+  <a href="https://www.linkedin.com/in/savee-sharma-a91721311/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Nezuko893550" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/savees8/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="mailto:saveesharma4@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saveesharma4&show_icons=true&locale=en&layout=compact" alt="saveesharma4" /></p>
+## 🛠️ Languages & Technologies  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,react,nodejs,unity,python,git,html,css,mysql,sqlserver" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saveesharma4&show_icons=true&locale=en" alt="saveesharma4" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saveesharma4&" alt="saveesharma4" /></p>
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saveesharma4&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saveesharma4&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saveesharma4&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+🔥 **Thanks for stopping by!** Let's **connect and build something amazing together!** 🚀🎯  
