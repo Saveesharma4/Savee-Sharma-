@@ -47,7 +47,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saveesharma4&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+<p align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=saveesharma4&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&bg_color=0d1117&color=c9a7eb&line=bb86fc&point=9a74db&area_color=6a5acd" height="300" alt="Savee's Contribution Graph" />
 
+</p>
 ---
 
 🔥 **Thanks for stopping by!** Let's **connect and build something amazing together!** 🚀🎯  
